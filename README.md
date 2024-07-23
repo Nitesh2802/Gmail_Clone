@@ -3,6 +3,9 @@
 A full-stack web application clone of Google's Gmail, built using React, Node.js, Express.js, and MongoDB.
 Gmail Clone is a web-based email client application designed to replicate the core functionalities of Google's Gmail service. Users can sign up, log in securely, compose, send, receive, and organize emails within a familiar interface.
 
+## Screenshots
+
+![App Screenshot](https://github.com/Nitesh2802/Gmail_Clone/blob/main/frontend/public/Screenshot%20(1858).png?raw=true)
 
 
 ## Technologies Used:
